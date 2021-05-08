@@ -1,0 +1,50 @@
+.footer {
+  background-color: #001845;
+  margin-top: 0 !important;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.footer h5 {
+  color: #aeb8fe;
+}
+
+.footer p {
+  color: #aeb8fe;
+}
+
+.footer a {
+  color: #aeb8fe;
+}
+
+.footer .search {
+  opacity: 1;
+  color: #949597;
+  height: 80%;
+  border-radius: 4px 0 0 4px !important;
+}
+
+@media (min-width: 992px) {
+  .footer .search {
+    height: 95%;
+    font-size: 15px;
+  }
+}
+
+.footer .fontButton {
+  margin: 0;
+  border-radius: 0 4px 4px 0;
+  background-color: #03578f;
+  color: white;
+  border: none;
+}
+
+.footer svg {
+  height: 30px;
+  width: 20px;
+  background-size: contain;
+  color: #007bff;
+  margin: 0 8px 0 0;
+  opacity: 0.5;
+  transition: 0.1s all ease-in;
+}
