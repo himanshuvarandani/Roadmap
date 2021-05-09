@@ -1,18 +1,18 @@
 import React from "react"
 
+import "./Landing.css"
+
 import Home from "./Home.js"
 import About from "./About.js"
 import Services from "./Services.js"
-import Team from "./Team.js"
 import Contact from "./Contact.js"
 
 const LandingPage = () => {
   return (
-    <div>
+    <div className="landing">
       <Home />
       <About />
       <Services />
-      <Team />
       <Contact />
     </div>
   )

@@ -15,7 +15,9 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-12 col-sm-6">
-            <h5>Roadmap</h5>
+            <a href="#">
+              <h5>Roadmap</h5>
+            </a>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Reiciendis provident rerum ipsa vero sapiente dolore, qui
@@ -23,35 +25,37 @@ const Footer = () => {
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
-            <h5>Services</h5>
+            <a href="#services">
+              <h5>Services</h5>
+            </a>
             <p>
-              <a href="#">Web Development</a>
+              <a href="#WD">Web Development</a>
               <br />
-              <a href="#">App Development</a>
+              <a href="#AD">App Development</a>
               <br />
-              <a href="#">Machine Lerning</a>
+              <a href="#ML">Machine Lerning</a>
               <br />
-              <a href="#">Artificial Intelligence</a>
+              <a href="#AI">Artificial Intelligence</a>
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
-            <h5>About</h5>
+            <a href="#about">
+              <h5>About</h5>
+            </a>
             <p>
-              <a href="#">Who are we?</a>
+              <a href="#whoAreWe">Who are we?</a>
               <br />
-              <a href="#">Why us?</a>
+              <a href="#whyUs">Why us?</a>
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
             <h5>Terms</h5>
             <p>
-              <a href="#">Terms and Conditions</a>
+              <a href="#TC">Terms and Conditions</a>
               <br />
-              <a href="#">Privacy Policy</a>
+              <a href="#PP">Privacy Policy</a>
               <br />
-              <a href="#">Team</a>
-              <br />
-              <a href="#">Contact Us</a>
+              <a href="#contactUs">Contact Us</a>
             </p>
           </div>
           <div className="col-lg-3 col-md-12 col-sm-10">
