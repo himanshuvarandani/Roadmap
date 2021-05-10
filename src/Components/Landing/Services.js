@@ -35,7 +35,9 @@ const Services = () => {
                   <Card.Text>
                     Lorem ipsum dolor sit amet consectetur elit.
                   </Card.Text>
-                  <Button variant="primary">Learn More</Button>
+                  <a href="/webDevelopment">
+                    <Button variant="primary">Learn More</Button>
+                  </a>
                 </Card.Body>
               </Card>
             </div>
@@ -48,7 +50,9 @@ const Services = () => {
                   <Card.Text>
                     Lorem ipsum dolor sit amet consectetur elit.
                   </Card.Text>
-                  <Button variant="primary">Learn More</Button>
+                  <a href="/webDevelopment">
+                    <Button variant="primary">Learn More</Button>
+                  </a>
                 </Card.Body>
               </Card>
             </div>
@@ -61,7 +65,9 @@ const Services = () => {
                   <Card.Text>
                     Lorem ipsum dolor sit amet consectetur elit.
                   </Card.Text>
-                  <Button variant="primary">Learn More</Button>
+                  <a href="/webDevelopment">
+                    <Button variant="primary">Learn More</Button>
+                  </a>
                 </Card.Body>
               </Card>
             </div>
@@ -74,7 +80,9 @@ const Services = () => {
                   <Card.Text>
                     Lorem ipsum dolor sit amet consectetur elit.
                   </Card.Text>
-                  <Button variant="primary">Learn More</Button>
+                  <a href="/webDevelopment">
+                    <Button variant="primary">Learn More</Button>
+                  </a>
                 </Card.Body>
               </Card>
             </div>

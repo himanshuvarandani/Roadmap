@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-12 col-sm-6">
-            <a href="#">
+            <a href="/">
               <h5>Roadmap</h5>
             </a>
             <p>
@@ -25,7 +25,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
-            <a href="#services">
+            <a href="/#services">
               <h5>Services</h5>
             </a>
             <p>
@@ -39,13 +39,13 @@ const Footer = () => {
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
-            <a href="#about">
+            <a href="/#about">
               <h5>About</h5>
             </a>
             <p>
-              <a href="#whoAreWe">Who are we?</a>
+              <a href="/#whoAreWe">Who are we?</a>
               <br />
-              <a href="#whyUs">Why us?</a>
+              <a href="/#whyUs">Why us?</a>
             </p>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-6">
@@ -55,7 +55,7 @@ const Footer = () => {
               <br />
               <a href="#PP">Privacy Policy</a>
               <br />
-              <a href="#contactUs">Contact Us</a>
+              <a href="/#contactUs">Contact Us</a>
             </p>
           </div>
           <div className="col-lg-3 col-md-12 col-sm-10">
