@@ -10,6 +10,7 @@ import {
 const Contact = () => {
   return (
     <div id="contactUs">
+      <br />
       <div className="container">
         <div className="d-flex flex-row justify-content-center align-items-center">
           <hr />

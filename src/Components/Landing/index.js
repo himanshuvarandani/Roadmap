@@ -10,6 +10,7 @@ import Contact from "./Contact.js"
 const LandingPage = () => {
   return (
     <div className="landing">
+      <br />
       <Home />
       <About />
       <Services />

@@ -5,6 +5,7 @@ import image1 from "../../Images/Image1.jpg"
 const Home = () => {
   return (
     <div id="home">
+      <br />
       <div className="container">
         <div className="row">
           <div className="col-lg-6 pt-5 text-center">
